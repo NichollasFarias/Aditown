@@ -1,0 +1,10 @@
+D:\Projetos do C#\Aditown\Aditown\bin\Debug\Aditown.exe.config
+D:\Projetos do C#\Aditown\Aditown\bin\Debug\Aditown.exe
+D:\Projetos do C#\Aditown\Aditown\bin\Debug\Aditown.pdb
+D:\Projetos do C#\Aditown\Aditown\obj\Debug\Aditown.csprojAssemblyReference.cache
+D:\Projetos do C#\Aditown\Aditown\obj\Debug\Aditown.Form1.resources
+D:\Projetos do C#\Aditown\Aditown\obj\Debug\Aditown.Properties.Resources.resources
+D:\Projetos do C#\Aditown\Aditown\obj\Debug\Aditown.csproj.GenerateResource.cache
+D:\Projetos do C#\Aditown\Aditown\obj\Debug\Aditown.csproj.CoreCompileInputs.cache
+D:\Projetos do C#\Aditown\Aditown\obj\Debug\Aditown.exe
+D:\Projetos do C#\Aditown\Aditown\obj\Debug\Aditown.pdb
